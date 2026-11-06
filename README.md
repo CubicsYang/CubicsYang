@@ -21,22 +21,18 @@ I was trained to read terrain, and I look at cities the same way: as surfaces wi
 - 🛣️ **The ground beneath the city:** road slopes and 3D road networks from DEMs and street view imagery
 - ⛰️ **The Earth's surface:** global landform classification, anthropogenic landforms, dunes, gullies and alluvial fans
 
-## 🔭 Featured projects
+## 🔭 Selected work
 
-| Project | What it does | Paper |
-|---|---|---|
-| [**Vision2Slope**](https://github.com/CubicsYang/Vision2Slope) | Estimates urban road slopes from street view imagery | *IJGIS*, 2026 |
-| [**Footprint_Building_Height_Estimation**](https://github.com/CubicsYang/Footprint_Building_Height_Estimation) | Footprint-level building height from open DEM/DSM data with Random Forest + SHAP | *Sustainable Cities and Society*, 2024 |
-| [**Road_Elevation_DSM**](https://github.com/CubicsYang/Road_Elevation_DSM) | Extracts large-scale 3D road networks from AW3D30 and FABDEM | *Remote Sensing*, 2022 |
-| [**Geospatial_Data_Downloader**](https://github.com/CubicsYang/Geospatial_Data_Downloader) | One place to download global DEMs (Copernicus, SRTM, AW3D30, NASADEM, GEBCO…) and land cover | — |
-| [**Download_CopernicusDEM**](https://github.com/CubicsYang/Download_CopernicusDEM) | Downloads Copernicus DEM tiles by extent through the AWS CLI | — |
+**[Vision2Slope: estimating urban road slopes with street view imagery](https://cubicsyang.github.io/publication/journal-article/2026-ijgis-yang/)**<br>
+**Chen, Y.**, Fan, Z., Li, H., Zhao, W., Yang, X., Tang, G. (2026). *International Journal of Geographical Information Science*.<br>
+[📄 Paper](https://doi.org/10.1080/13658816.2026.2656269) · [💻 Code](https://github.com/CubicsYang/Vision2Slope)
 
-## 📄 Selected first-author publications
+**[Vertical 15-minute city: Modeling urban density and functional mix with multi-source geospatial data](https://cubicsyang.github.io/publication/journal-article/2025-cities/)**<br>
+**Chen, Y.**, Yang, X., Li, X., Yang, L., Cheng, S., Tang, G. (2025). *Cities*, 169, 106516.<br>
+[📄 Paper](https://doi.org/10.1016/j.cities.2025.106516)
 
-- **Chen, Y.**, Fan, Z., Li, H., Zhao, W., Yang, X., Tang, G. (2026). Vision2Slope: estimating urban road slopes with street view imagery. *International Journal of Geographical Information Science*. [DOI](https://doi.org/10.1080/13658816.2026.2656269) · [Code](https://github.com/CubicsYang/Vision2Slope)
-- **Chen, Y.**, Yang, X., Li, X., Yang, L., Cheng, S., Tang, G. (2025). Vertical 15-minute city: Modeling urban density and functional mix with multi-source geospatial data. *Cities*, 169, 106516. [DOI](https://doi.org/10.1016/j.cities.2025.106516)
-- **Chen, Y.**, Yang, X., Fu, H., Li, C., Tang, G. (2025). Characterizing spatial patterns and regionalization of anthropogenic landforms using multi-source geospatial data: Insights from Loess Plateau of China. *Geomorphology*, 478, 109708. [DOI](https://doi.org/10.1016/j.geomorph.2025.109708)
-- **Chen, Y.**, Sun, W., Yang, L., Yang, X., Zhou, X., Li, X., et al. (2024). Refining urban morphology: An explainable machine learning method for estimating footprint-level building height. *Sustainable Cities and Society*, 112, 105635. [DOI](https://doi.org/10.1016/j.scs.2024.105635) · [Code](https://github.com/CubicsYang/Footprint_Building_Height_Estimation)
-- **Chen, Y.**, Yang, X., Yang, L., Feng, J. (2022). An automatic approach to extracting large-scale three-dimensional road networks using open-source data. *Remote Sensing*, 14(22), 5746. [DOI](https://doi.org/10.3390/rs14225746) · [Code](https://github.com/CubicsYang/Road_Elevation_DSM)
+**[Refining urban morphology: An explainable machine learning method for estimating footprint-level building height](https://cubicsyang.github.io/publication/journal-article/2024-scs/)**<br>
+**Chen, Y.**, Sun, W., Yang, L., Yang, X., Zhou, X., Li, X., et al. (2024). *Sustainable Cities and Society*, 112, 105635.<br>
+[📄 Paper](https://doi.org/10.1016/j.scs.2024.105635) · [💻 Code](https://github.com/CubicsYang/Footprint_Building_Height_Estimation)
 
 ➡️ Full list on [my website](https://cubicsyang.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=ObcghREAAAAJ).
