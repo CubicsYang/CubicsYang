@@ -329,7 +329,7 @@
 <line x1="490" y1="340.0" x2="543.0" y2="340.0" stroke="#7fd3b4" stroke-opacity="0.6" stroke-width="1.2"/>
 <circle cx="543.0" cy="340.0" r="3" fill="#7fd3b4"/>
 <text x="70" y="334.0" font-size="21" font-weight="700" letter-spacing="1.2" fill="#e8f5ef">THE GROUND BENEATH THE CITY</text>
-<text x="70" y="364.0" font-size="18" fill="#e8f5ef" fill-opacity="0.7">road slopes · 3D road networks</text>
+<text x="70" y="364.0" font-size="18" fill="#e8f5ef" fill-opacity="0.7">road slopes · street view imagery</text>
 <line x1="490" y1="510.0" x2="543.0" y2="510.0" stroke="#7fd3b4" stroke-opacity="0.6" stroke-width="1.2"/>
 <circle cx="543.0" cy="510.0" r="3" fill="#7fd3b4"/>
 <text x="70" y="504.0" font-size="21" font-weight="700" letter-spacing="1.2" fill="#e8f5ef">THE EARTH'S SURFACE</text>
