@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cubicsyang.github.io/"><img src="https://img.shields.io/badge/Website-02594e?style=flat-square&logo=hugo&logoColor=white" alt="Website"></a>
+  <a href="https://cubicsyang.github.io/"><img src="https://img.shields.io/badge/Website-354a6a?style=flat-square&logo=hugo&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=ObcghREAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0000-0003-1283-4363"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://www.researchgate.net/profile/Yang-Chen-405"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
