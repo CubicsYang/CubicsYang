@@ -13,7 +13,7 @@
 
 ## 👋 Hi, I'm Yang
 
-I'm a PhD candidate in **Cartography and GIS** at the School of Geography, **Nanjing Normal University**, in [Prof. Guoan Tang](https://en.njnu.edu.cn/people/guoan-tang)'s Digital Terrain Analytics team. From Nov 2024 to Nov 2025 I was a visiting scholar at the [Urban Analytics Lab](https://ual.sg), **National University of Singapore**, with [Prof. Filip Biljecki](https://filipbiljecki.com/).
+I'm a PhD candidate in **Cartography and GIS** at the School of Geography, **Nanjing Normal University**.
 
 I was trained to read terrain, and I look at cities the same way: as surfaces with relief, structure and a history of how they were shaped. My research follows that third dimension from the skyline down to the landscape:
 
