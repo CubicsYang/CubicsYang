@@ -17,6 +17,10 @@ I'm a PhD candidate in **Cartography and GIS** at the School of Geography, **Nan
 
 I was trained to read terrain, and I look at cities the same way: as surfaces with relief, structure and a history of how they were shaped. My research follows that third dimension from the skyline down to the landscape:
 
+<p align="center">
+  <img src="assets/skyline-to-landscape.svg" alt="Cross-section from the city skyline, over a sloped road, to natural landforms" width="100%">
+</p>
+
 - 🏙️ **The built skyline:** building height, 3D urban form, the *vertical* 15-minute city
 - 🛣️ **The ground beneath the city:** road slopes and 3D road networks from DEMs and street view imagery
 - ⛰️ **The Earth's surface:** global landform classification, anthropogenic landforms, dunes, gullies and alluvial fans
