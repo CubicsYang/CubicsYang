@@ -18,7 +18,10 @@ I'm a PhD candidate in **Cartography and GIS** at the School of Geography, **Nan
 I was trained to read terrain, and I look at cities the same way: as surfaces with relief, structure and a history of how they were shaped. My research follows that third dimension from the skyline down to the landscape:
 
 <p align="center">
-  <img src="assets/skyline-to-landscape.svg" alt="Cross-section from the city skyline, over a sloped road, to natural landforms" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skyline-to-landscape-dark.svg">
+    <img src="assets/skyline-to-landscape.svg" alt="Three stacked layers: landforms at the bottom, roads over exaggerated relief in the middle, buildings on top" width="100%">
+  </picture>
 </p>
 
 - 🏙️ **The built skyline:** building height, 3D urban form, the *vertical* 15-minute city
