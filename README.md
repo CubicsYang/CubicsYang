@@ -25,7 +25,7 @@ I was trained to read terrain, and I look at cities the same way: as surfaces wi
 </p>
 
 - 🏙️ **The built skyline:** building height, 3D urban form, the *vertical* 15-minute city
-- 🛣️ **The ground beneath the city:** road slopes from DEMs and street view imagery
+- 🛣️ **The ground beneath the city:** road slopes and accessibility, from DEMs and street view imagery
 - ⛰️ **The Earth's surface:** global landform classification, anthropogenic landforms, dunes, gullies and alluvial fans
 
 ## 🔭 Selected work
