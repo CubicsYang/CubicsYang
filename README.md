@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://cubicsyang.github.io/"><img src="https://img.shields.io/badge/Website-cubicsyang.github.io-02594e?style=flat-square&logo=hugo&logoColor=white" alt="Website"></a>
-  <a href="https://scholar.google.com/citations?user=ObcghREAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Yang_Chen-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://orcid.org/0000-0003-1283-4363"><img src="https://img.shields.io/badge/ORCID-0000--0003--1283--4363-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.researchgate.net/profile/Yang-Chen-405"><img src="https://img.shields.io/badge/ResearchGate-Yang_Chen-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://www.linkedin.com/in/yang-chen-ab2b15338"><img src="https://img.shields.io/badge/LinkedIn-Yang_Chen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:yangchen@nnu.edu.cn"><img src="https://img.shields.io/badge/Email-yangchen@nnu.edu.cn-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://cubicsyang.github.io/"><img src="https://img.shields.io/badge/Website-02594e?style=flat-square&logo=hugo&logoColor=white" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=ObcghREAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0003-1283-4363"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.researchgate.net/profile/Yang-Chen-405"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://www.linkedin.com/in/yang-chen-ab2b15338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yangchen@nnu.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 ## 👋 Hi, I'm Yang
