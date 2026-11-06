@@ -40,22 +40,3 @@ I was trained to read terrain, and I look at cities the same way: as surfaces wi
 - **Chen, Y.**, Yang, X., Yang, L., Feng, J. (2022). An automatic approach to extracting large-scale three-dimensional road networks using open-source data. *Remote Sensing*, 14(22), 5746. [DOI](https://doi.org/10.3390/rs14225746) · [Code](https://github.com/CubicsYang/Road_Elevation_DSM)
 
 ➡️ Full list on [my website](https://cubicsyang.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=ObcghREAAAAJ).
-
-## 🧰 Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white" alt="GeoPandas">
-  <img src="https://img.shields.io/badge/Rasterio%20%2F%20GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white" alt="Rasterio / GDAL">
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap">
-  <img src="https://img.shields.io/badge/SQL%20%26%20Spatial_DB-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and spatial databases">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-</p>
-
-## 🤝 Get in touch
-
-I'm always happy to talk about collaborations in urban analytics, digital terrain analysis, or anything 3D and geospatial. Off the map, you'll find me on a basketball court 🏀 or behind a camera 📷.
